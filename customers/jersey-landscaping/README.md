@@ -3,23 +3,26 @@
 ## Business contact
 - **Name:** Jersey Landscaping LLC
 - **Website:** https://www.jerseylandscaping.com/
-- **Email:** jerseylandscaping@gmail.com (recheck official site before sending)
-- **Phone:** (732) 462-4289 (recheck before sending)
-- **Service areas:** Monmouth, Ocean, Middlesex, and Mercer Counties, NJ (confirm)
+- **Email:** jerseylandscaping@gmail.com (published on business website; reconfirm before follow-up)
+- **Phone:** (732) 462-4289
+- **Service areas:** Monmouth, Ocean, Middlesex, and Mercer Counties, NJ
 - **Street address:** Not confirmed
 - **Industry:** Landscaping, hardscaping, outdoor living
 
-## Design
-- **Template:** TERRA, adapted in olive green, cream, and sand tones
-- **Design status:** Approved by user; awaiting upload
-- **Image link:** Pending PNG upload to this folder
-- **Note:** Photos, project imagery, and testimonials in the mockup are illustrative and must not be represented as actual customer projects or reviews.
+## Approved website concept
+- **Template:** TERRA, customized olive green/cream/sand version
+- **Status:** Approved and uploaded
+- **Approved image:** https://github.com/Jsxkami/uisome-customer/blob/main/customers/jersey-landscaping/file_00000000ebdc81f5b92e2b3e879afe24.png
+- **Raw image:** https://raw.githubusercontent.com/Jsxkami/uisome-customer/main/customers/jersey-landscaping/file_00000000ebdc81f5b92e2b3e879afe24.png
+- **Disclaimer:** Mockup photos, projects, and testimonials are illustrative, not verified work or reviews of this business.
 
-## Outreach
-- **Status:** Not sent — waiting for approved image upload and verification of business contact
-- **Recipient:** jerseylandscaping@gmail.com
+## Outreach history
+| Date (NJ) | Channel | Recipient | Status |
+| --- | --- | --- | --- |
+| 2026-11-04 | Email | jerseylandscaping@gmail.com | Accepted by outbound mail server (HTTP 204); inbox delivery not confirmed |
+
 - **Sender:** Johan Florian | Uisome
-- **Sent date:** —
-- **Subject:** —
-- **Reply status:** —
-- **Follow-up log:** —
+- **Subject:** Jersey Landscaping — A Website Concept Created for Your Business
+- **Offer:** Websites from $1,200; landing pages from $800; design approval before payment
+- **Reply status:** No reply verified
+- **Next step:** Monitor response and record any follow-up or opt-out.
