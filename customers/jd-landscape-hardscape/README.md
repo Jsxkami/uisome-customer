@@ -1,25 +1,29 @@
 # JD Landscape & Hardscape — Uisome Prospect
 
-## Contact
+## Business contact
 - **Business:** JD Landscape & Hardscape
-- **Email:** jdlandscape01@gmail.com (verify from official website before sending)
+- **Email:** jdlandscape01@gmail.com
 - **Website:** https://jdlandscapeandhardscape.com/
-- **Phone:** (856) 553-9479 (verify before sending)
+- **Phone:** (856) 553-9479 (verify before follow-up)
 - **Location:** Berlin, NJ; South Jersey
 - **Industry:** Landscaping and hardscaping
-- **Services shown in approved concept:** Lawn care, landscape design, patios and walkways, retaining walls, fire pits and outdoor living, irrigation, lighting, drainage (confirm actual offerings against official website before sending)
+- **Relevant services:** Landscaping, patios, walkways, hardscaping; other services shown in concept should be confirmed against official business information
 
-## Design
-- **Template:** TERRA, customized green, cream and orange
+## Approved design
+- **Template:** TERRA customized green, cream and orange
 - **Approved:** 2026-11-04
-- **Approved image:** Realistic daylight version with patio, hardscape workers, natural landscaping and curved transitions (last generated image)
-- **Image URL:** Awaiting user's GitHub upload
-- **Important:** All imagery is illustrative, not verified photographs of the business's actual projects. Avoid claiming generated photos are authentic.
+- **Version:** Last, realistic daylight photos of patios, hardscape installation, landscaping and curved transitions
+- **Image:** https://github.com/Jsxkami/uisome-customer/blob/main/customers/jd-landscape-hardscape/file_00000000a30881f5ac026abacc6d4ea7.png
+- **Raw image:** https://raw.githubusercontent.com/Jsxkami/uisome-customer/main/customers/jd-landscape-hardscape/file_00000000a30881f5ac026abacc6d4ea7.png
+- **Note:** Mockup photos, staff, portfolio and claims are illustrative, not verified JD projects.
 
-## Outreach
-- **Status:** Approved design, awaiting GitHub upload. Do not send yet.
-- **Recipient:** jdlandscape01@gmail.com
-- **Sent:** —
-- **Subject:** —
-- **Response:** —
-- **Follow-up:** —
+## Outreach history
+| Date (NJ) | Channel | Recipient | Status |
+| --- | --- | --- | --- |
+| 2026-11-04 | Email | jdlandscape01@gmail.com | Accepted by outgoing Hostinger mail server (HTTP 204); inbox delivery not confirmed |
+
+- **Sender:** Johan Florian | Uisome
+- **Subject:** JD Landscape & Hardscape — A Website Concept Made for Your Business
+- **Offer:** Full websites from $1,200; landing pages from $800; design approval before payment
+- **Response:** No reply verified
+- **Follow-up:** Monitor reply; record opt-outs and any follow-up.
