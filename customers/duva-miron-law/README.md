@@ -3,22 +3,28 @@
 ## Business contact
 - **Name:** D'Uva & Miron LLC
 - **Website:** https://www.duvalaw.com/
-- **Email:** contact@duvalaw.com *(verify on official site before outreach)*
-- **Phone:** (973) 643-7750 *(verify before outreach)*
-- **Address:** 17 Academy Street, Suite 1101, Newark, NJ 07102 *(verify before outreach)*
-- **Industry:** Law firm — immigration, family, and civil law
-- **Languages shown in concept:** English, Spanish, Portuguese, Romanian *(confirm from official website)*
+- **Email:** contact@duvalaw.com (verified on official website)
+- **Phone:** (973) 643-7750 (verified)
+- **Call/Text/WhatsApp:** (862) 230-2311 (verified)
+- **Address:** 17 Academy Street, Suite 1101, Newark, NJ 07102 (verified)
+- **Industry:** Immigration-focused law firm; family and civil law
+- **Principal attorney:** Alexandra Miron
+- **Languages advertised:** English, Spanish, Portuguese, Romanian
 
-## Website concept
-- **Template:** HARTWELL & GRAY, custom teal/cream/coral reinterpretation
-- **Design:** Second version approved by user
-- **Approved image:** Awaiting PNG upload to this directory
-- **Important:** Photographs, attorney portraits, client testimonials, years of experience, case/client counts and other claims in the concept are illustrative and must not be represented as verified business facts.
+## Approved website concept
+- **Template:** HARTWELL & GRAY, customized teal/cream/coral variation
+- **Status:** Second version approved by user
+- **Approved image:** https://github.com/Jsxkami/uisome-customer/blob/main/customers/duva-miron-law/file_00000000682881f68bd988f1df954e53.png
+- **Raw image:** https://raw.githubusercontent.com/Jsxkami/uisome-customer/main/customers/duva-miron-law/file_00000000682881f68bd988f1df954e53.png
+- **Note:** Attorney portraits, photos, testimonials, years of experience, and client figures in the mockup are illustrative placeholders and not verified business claims.
 
-## Outreach log
-- **Status:** Not sent — awaiting image upload and contact verification
-- **Email recipient:** contact@duvalaw.com (pending verification)
+## Outreach history
+| Date (NJ) | Channel | Recipient | Status |
+| --- | --- | --- | --- |
+| 2026-11-04 | Email | contact@duvalaw.com | Accepted by outbound server (HTTP 204); delivery not confirmed |
+
 - **Sender:** Johan Florian | Uisome
-- **Date:** —
-- **Response:** —
-- **Follow-up notes:** Record outreach, replies and opt-outs here.
+- **Subject:** D’Uva & Miron — A Website Concept Created for Your Firm
+- **Offer:** Websites from $1,200; landing pages from $800; approve design before payment
+- **Response status:** No reply verified
+- **Next step:** Monitor reply; record any follow-up and STOP opt-out.
