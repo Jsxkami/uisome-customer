@@ -14,14 +14,18 @@
 - **Colors:** Cream, deep forest green, lime green and coral/orange accents
 - **Sections:** Hero with floating card, approach/stats, services, project mosaic, benefits, process, testimonials, estimate form and footer
 - **Approval date:** 2026-11-04
-- **Approved mockup:** Latest polished UI version (floating cards, rounded photos, green accent curves)
-- **Mockup image URL:** Pending user upload to this folder
-- **Image disclaimer:** Mockup images are illustrative, not verified company project photographs. Testimonials and performance figures are sample placeholders, not verified facts; confirm before any production use.
+- **Approved mockup:** Latest polished UI version with floating cards, rounded photos, green accent curves
+- **Mockup:** https://github.com/Jsxkami/uisome-customer/blob/main/customers/phr-landscapes/file_00000000115881fba951dd55b179bffd.png
+- **Raw mockup:** https://raw.githubusercontent.com/Jsxkami/uisome-customer/main/customers/phr-landscapes/file_00000000115881fba951dd55b179bffd.png
+- **Disclaimer:** Mockup images, testimonials, project claims and performance statistics are illustrative placeholders, not verified company content.
 
-## Outreach log
-- **Status:** Design approved; awaiting mockup upload to GitHub. Email NOT sent yet.
-- **Recipient:** sales@phrlandscapes.com
-- **Email subject:** Pending
-- **Sent:** Not sent
-- **Response:** None recorded
-- **Follow-up:** Pending
+## Outreach history
+| Date (NJ) | Channel | Recipient | Status |
+| --- | --- | --- | --- |
+| 2026-11-04 | Email | sales@phrlandscapes.com | Accepted by Hostinger outgoing server (HTTP 204); inbox delivery not confirmed |
+
+- **Sender:** Johan Florian | Uisome
+- **Subject:** PHR Landscapes — I Created a Website Concept for Your Business
+- **Offer:** Websites from $1,200; landing pages from $800; design approval before payment
+- **Response:** No reply verified
+- **Follow-up:** Await response; honor STOP opt-outs and log any subsequent contact.
